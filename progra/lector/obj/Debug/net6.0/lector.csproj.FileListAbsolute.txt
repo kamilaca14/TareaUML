@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\lector\lector\bin\Debug\net6.0\lector.exe
+C:\Users\kamil\source\repos\lector\lector\bin\Debug\net6.0\lector.deps.json
+C:\Users\kamil\source\repos\lector\lector\bin\Debug\net6.0\lector.runtimeconfig.json
+C:\Users\kamil\source\repos\lector\lector\bin\Debug\net6.0\lector.dll
+C:\Users\kamil\source\repos\lector\lector\bin\Debug\net6.0\lector.pdb
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.AssemblyInfo.cs
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.dll
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\refint\lector.dll
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.pdb
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\lector.genruntimeconfig.cache
+C:\Users\kamil\source\repos\lector\lector\obj\Debug\net6.0\ref\lector.dll
